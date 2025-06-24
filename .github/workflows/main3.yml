@@ -1,0 +1,13 @@
+name: Keep Render Active
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest  # Uses a virtual machine running Ubuntu
+
+    steps:
+      - name: Send HTTP Request
+        run: curl -X GET https://stream-video-and-chat.onrender.com

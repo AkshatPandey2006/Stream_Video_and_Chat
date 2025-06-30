@@ -11,6 +11,8 @@ A full-stack social platform connecting language learners and tutors, featuring 
 
 **Hosted Link:** https://stream-video-and-chat.onrender.com
 
+https://github.com/user-attachments/assets/f35d2415-77c6-47a1-b74c-884047fbf141
+
 ## Features
 
 - Real Time Video Meeting and Chat

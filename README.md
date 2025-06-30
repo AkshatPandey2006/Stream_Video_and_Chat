@@ -27,7 +27,7 @@ A full-stack social platform connecting language learners and tutors, featuring 
 ## Tech Stack
 
 **FrontEnd:** React, HTML and CSS  
-**BackEnd:** NodeJS and ExpressJS 
+**BackEnd:** NodeJS and ExpressJS           
 **Others:** MongoDB and Tanstack Query
 
 

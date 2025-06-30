@@ -15,7 +15,7 @@ A full-stack social platform connecting language learners and tutors, featuring 
 
 - Real Time Video Meeting and Chat
 - Screen Sharing During Video Meet
-- Pin, Delete, React to Messages etc.
+- Pin, Delete, React to Messages, etc.
 
 
 ## Screenshots

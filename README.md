@@ -1,7 +1,7 @@
 
 # Stream Video/Chat Together
 
-A full-stack social platform connecting language learners and tutors, featuring chat/video meet, friend requests, screen sharing, and message management (edit, delete, pin etc). The tech stack includes MongoDB, ExpressJS, React and NodeJS. Integrated Stream for real-time video/chat, Tanstack Query for custom hooks and deployed on Render.
+A full-stack social platform connecting language learners and tutors, featuring chat/video meet, friend requests, screen sharing, and message management (edit, delete, pin, etc). The tech stack includes MongoDB, ExpressJS, React and NodeJS. Integrated Stream for video/chat, Tanstack Query for custom hooks and deployed on Render.
 
 
 

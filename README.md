@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/f35d2415-77c6-47a1-b74c-884047fbf141
 
 **FrontEnd:** React, HTML, CSS  
 **BackEnd:** NodeJS, ExpressJS           
-**Others:** MongoDB, Tanstack Query
+**Others:** MongoDB, Tanstack Query, Stream
 
 
 ## Environment Variables
